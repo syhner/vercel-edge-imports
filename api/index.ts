@@ -1,4 +1,4 @@
-import { RESPONSE_STRING } from '../src/responses';
+import { RESPONSE_STRING } from '~/responses';
 
 export const config = { runtime: 'edge' };
 
